@@ -7189,6 +7189,11 @@ pnp-webpack-plugin@1.5.0:
   dependencies:
     ts-pnp "^1.1.2"
 
+porp-types@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/porp-types/-/porp-types-0.0.1-security.tgz#924140cb786e03e54252fa1812c93d1cc240da6a"
+  integrity sha512-+cuPmgFZ4ooY94aSSBk1+WFtP5zcjySVmFPgUrV9GFdN6MOc0G/tDeRBRhpLMZIBG7M0w001PEGQK9xSPzVFFA==
+
 portfinder@^1.0.9:
   version "1.0.21"
   resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.21.tgz#60e1397b95ac170749db70034ece306b9a27e324"
